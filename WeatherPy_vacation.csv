@@ -1,0 +1,49 @@
+City_ID,City,Country,Max Temp,Cloudiness,Humidity,Lat,Lng,Hotel Name
+28,Svetlaya,RU,59.81,0,63,46.54,138.33,
+50,Mount Gambier,AU,57.2,90,93,-37.83,140.77,Commodore on the Park
+58,Zhangye,CN,59.79,89,41,38.93,100.45,Zhangye Lvzhou Holiday Inn
+73,Warrington,GB,57.2,75,93,53.39,-2.58,Villaggio Hotel
+105,Chuy,UY,56.26,59,91,-33.7,-53.46,Nuevo Hotel Plaza
+114,Carnarvon,AU,59.0,0,67,-24.87,113.63,Hospitality Carnarvon
+128,Moron,AR,59.0,75,38,-34.65,-58.62,Hotel Morón
+159,Saint Anthony,US,57.2,90,71,45.02,-93.22,Holiday Inn Express Roseville-St. Paul
+161,Lasa,IT,57.2,75,93,46.62,10.7,Pension Feldgärtenhof
+170,Sitka,US,57.2,75,71,57.05,-135.33,Westmark Sitka
+176,Vostok,RU,56.61,0,77,46.49,135.88,
+195,Troyes,FR,57.2,0,76,48.33,4.08,Le Relais Saint Jean
+202,Rio Grande,BR,59.0,94,96,-32.03,-52.1,Hotel Atlântico Rio Grande
+234,Ilabaya,PE,58.84,2,47,-17.42,-70.51,
+247,Abhar,IR,58.64,0,58,36.15,49.22,Hotel Got7
+270,Broome,US,59.0,1,67,42.25,-75.83,Chenango Valley State Park
+299,Solnechnyy,RU,59.43,0,53,50.72,136.63,Hotel complex Pastoral
+314,Katangli,RU,57.51,0,71,51.71,143.23,
+321,Kaeo,NZ,56.53,0,41,-35.1,173.78,Bushido Lodge
+359,Krasnyy Luch,UA,56.23,0,41,48.14,38.94,"КРАСНЫЙ ЛУЧ, ГОСТИНИЦА"
+364,Elliot Lake,CA,57.2,1,62,46.38,-82.63,Frontier Lodge
+365,Port Lincoln,AU,58.08,97,85,-34.73,135.87,Port Lincoln Hotel
+380,Margate,GB,57.99,0,58,51.38,1.39,Premier Inn Margate hotel
+404,Terney,RU,59.95,65,63,45.05,136.61,Sikhote-Alin'
+407,Brainerd,US,59.0,90,62,46.36,-94.2,Holiday Inn Express & Suites Brainerd-Baxter
+413,Okhotsk,RU,57.43,0,57,59.38,143.3,
+430,Mago,RU,56.91,9,56,53.25,140.18,
+440,Lively,CA,59.0,75,58,46.43,-81.15,Lively Inn and Suites - Sudbury
+455,Scarborough,GB,57.99,100,89,54.28,-0.4,Ambassador
+471,Comodoro Rivadavia,AR,59.0,23,30,-45.87,-67.5,Austral Hotel
+475,Bamiantong,CN,59.67,99,82,44.93,130.53,Dehuiyuan Leisure Resort
+486,Zeya,RU,59.88,13,70,53.75,127.27,Kapital Inn
+493,Temir,KZ,57.0,0,48,49.14,57.13,
+494,Valparaiso,CL,59.0,0,58,-33.04,-71.63,Hotel Ultramar
+499,Sao Lourenco Do Sul,BR,59.0,84,96,-31.37,-51.98,Hotel Pousada Verde Água
+506,Erenhot,CN,59.31,24,67,43.65,111.98,Erenhot Rurouni Youth Hostel
+513,Kenai,US,59.0,1,38,60.55,-151.26,Aspen Extended Stay Suites
+522,Kalengwa,ZM,58.21,0,36,-13.47,25.0,
+532,Zhanakorgan,KZ,57.33,32,57,43.91,67.25,"""Ақпалас"" қонақ үйі"
+551,Chegdomyn,RU,58.3,0,60,51.12,133.02,Gostinitsa Bureya
+553,Lebedinyy,RU,58.23,97,85,58.52,125.52,
+555,Hailin,CN,57.33,100,83,44.58,129.42,Grand Legend Hotel
+574,Butembo,CD,57.07,6,100,0.15,29.28,Hotel Butembo
+577,Buribay,RU,56.75,86,62,51.96,58.16,
+581,Homer,US,57.2,1,50,59.64,-151.55,Beluga Lake Lodge
+601,Superior,US,57.2,90,67,46.72,-92.1,Holiday Inn Express & Suites Superior - Duluth Area
+646,Nevelsk,RU,59.0,20,77,46.67,141.86,Gostinitsa Viktoriya
+652,Liverpool,GB,57.2,75,93,53.41,-2.98,Premier Inn Liverpool City Centre (Moorfields) hotel
